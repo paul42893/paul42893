@@ -12,7 +12,9 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 &nbsp;
 &nbsp;
-![trophy](https://github-profile-trophy.vercel.app/?username=paul42893&theme=algolia&margin-w=15&margin-h=15&no-frame=true&exclude=PullRequests,Reviews,Followers)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=paul42893&theme=darkhub&row=1&column=5">
+</div>
 &nbsp;
 &nbsp;
 &nbsp;
