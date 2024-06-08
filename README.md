@@ -24,8 +24,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="#">
     <img width="60%" align="right" alt="paul42893's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=paul42893&theme=react&border=61dafb&hide_border=true" />
-    <img align="right" width="60%" src="https://readme-git-main-paul42893.vercel.app/api/top-langs/?username=paul42893&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-    <img align="right" width="60%" src="https://readme-20dn5reob-paul42893.vercel.app/api?username=paul42893&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
+    <!-- <img align="right" width="60%" src="https://readme-git-main-paul42893.vercel.app/api/top-langs/?username=paul42893&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img align="right" width="60%" src="https://readme-20dn5reob-paul42893.vercel.app/api?username=paul42893&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" /> -->
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 
